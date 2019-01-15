@@ -26,6 +26,7 @@
     "enzyme-adapter-react-16": "^1.7.1",
     "flag-icon-css": "^3.2.1",
     "font-awesome": "^4.7.0",
+    "immutability-helper": "^2.9.0",
     "jquery": "^3.3.1",
     "node-sass": "^4.11.0",
     "prop-types": "^15.6.2",
@@ -36,9 +37,11 @@
     "react-loadable": "^5.5.0",
     "react-router-config": "^4.4.0-beta.6",
     "react-router-dom": "^4.3.1",
+    "react-spinners": "^0.5.1",
     "react-test-renderer": "^16.7.0",
     "reactstrap": "^7.0.2",
-    "simple-line-icons": "^2.4.1"
+    "simple-line-icons": "^2.4.1",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "react-scripts": "2.1.3"

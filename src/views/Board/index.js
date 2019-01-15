@@ -1,7 +1,7 @@
 import Board from './Board';
-import CardBoard from './CardBoard';
+import BoardCard from './BoardCard';
 // import CardList from './CardList';
 
 export {
-  CardBoard, Board, CardList
+  BoardCard, Board, CardList
 }

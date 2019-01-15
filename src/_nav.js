@@ -107,15 +107,15 @@ export default {
     //       icon: 'icon-puzzle',
     //     },
         {
-          name: 'Tables',
-          url: '/base/tables',
+          name: 'Localtions',
+          url: '/locations',
           icon: 'icon-puzzle',
         },
-        {
-          name: 'Users',
-          url: '/users',
-          icon: 'icon-puzzle',
-        },
+        // {
+        //   name: 'Users',
+        //   url: '/users',
+        //   icon: 'icon-puzzle',
+        // },
     //     {
     //       name: 'Tabs',
     //       url: '/base/tabs',

@@ -17,7 +17,7 @@ import {
   Tabs,
   Tooltips,
 } from './Base';
-import {Board, CardBoard, CardList} from "./Board"
+import {Board, BoardCard, CardList} from "./Board"
 import { ButtonDropdowns, ButtonGroups, Buttons, BrandButtons } from './Buttons';
 import Charts from './Charts';
 import Dashboard from './Dashboard';
@@ -30,7 +30,7 @@ import Widgets from './Widgets';
 export {
   Badges,
   Board,
-  CardBoard,
+  BoardCard,
   CardList,
   Typography,
   Colors,

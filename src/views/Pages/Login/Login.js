@@ -3,8 +3,8 @@ import { Redirect } from 'react-router-dom';
 import Config from "../../../Config"
 import { Link } from 'react-router-dom';
 import * as $ from "jquery"
-import { Button, Card, CardBody, CardGroup, Col, Container, Form, Input, InputGroup, InputGroupAddon, InputGroupText, Row } from 'reactstrap';
 import axios from "axios"
+import { Button, Card, CardBody, CardGroup, Col, Container, Form, Input, InputGroup, InputGroupAddon, InputGroupText, Row } from 'reactstrap';
 class Login extends Component {
   loginRequest = function (event) {
     let form = document.querySelector("loginForm")
